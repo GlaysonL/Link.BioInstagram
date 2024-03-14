@@ -25,7 +25,7 @@
 
 <h3 id="links"><strong>Links</strong></h3>
 
-- Live Site URL: [Click-me]
+- Live Site URL: [Click-me](https://glaysonl.github.io/Link.BioInstagram/)
 <h2 id="my-process"><strong>« [My Process] »</strong></h2>
 
 <h3 id="built-with"><strong>Built with</strong></h3>
