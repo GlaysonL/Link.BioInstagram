@@ -1,5 +1,5 @@
 # My Bio Link | Instagram
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GlaysonL/Link.BioInstagram/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GlaysonL/Link.BioInstagram/blob/master/LICENSE) 
 
 <h2>Table of contents</h2>
 
@@ -34,9 +34,6 @@
 - CSS custom properties
 - Mobile-first workflow
 - Flexbox
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Tailwind CSS](https://tailwindcss.com/) - For styles
 
 <h2 id="author"><strong>« [Author] »</strong></h2>
 
